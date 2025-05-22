@@ -53,6 +53,7 @@ bouncyMaterial.bounciness = 1.0f;
 bouncyMaterial.frictionCombine = PhysicMaterialCombine.Minimum;
 Collider collider = gameObject.GetComponent<Collider>();
 collider.material = bouncyMaterial;
+```
 
 # **Unity 6: Rigidbodies, Colliders, and Bouncing Physics**
 ## **Conversation Summary with Copilot**
@@ -99,6 +100,7 @@ public class CylinderColliderExample : MonoBehaviour
         }
     }
 }
+```
 
 # **4. Creating Bounce Effects in Unity 6**
 
