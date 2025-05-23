@@ -45,3 +45,5 @@ public class SpriteConverter : MonoBehaviour
 This script takes a **Texture2D**, converts it into a **Sprite**, and assigns it to a **SpriteRenderer**.
 
 For more details, check out Unity’s official [sprite setup guide](https://docs.unity3d.com/2021.3/Documentation/Manual/sprites-setup.html) or this [discussion on converting images to sprites](https://discussions.unity.com/t/convert-image-to-sprite/890375).
+
+https://discussions.unity.com/t/how-to-set-a-sprite-inline-with-textmeshpro/770970/5
