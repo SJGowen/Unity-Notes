@@ -8,8 +8,6 @@ Here’s a general approach:
 
 If you're looking for more details, you might find this [Unity discussion](https://discussions.unity.com/t/how-to-set-a-sprite-inline-with-textmeshpro/770970) helpful, or check out this [guide](https://blog.yarsalabs.com/integrate-image-with-text-using-textmeshpro/) on integrating images with TextMesh Pro.
 
-Let me know if you need more specifics! 
-
 Converting images into sprites in Unity is pretty straightforward! Here’s how you can do it:
 
 ### **Method 1: Using the Unity Editor**
