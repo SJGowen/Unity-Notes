@@ -129,7 +129,7 @@ This episode focuses on **displaying the player's traveled distance** as a score
 
 Here’s a **detailed breakdown** of **Episode 11: Final Polish & Optimization** to help you refine and optimize your endless driving game.
 
-### **Episode 11: Final Polish & Optimization** ([Watch here](https://https://m.youtube.com/watch?v=t19p_PC2Vo8))
+### **Episode 11: Final Polish & Optimization** ([Watch here](https://m.youtube.com/watch?v=t19p_PC2Vo8))
 - **00:00 - 00:10** Introduction to the episode and final improvements
 - **00:10 - 04:32** Optimizing **performance settings** for smoother gameplay
 - **04:32 - 09:15** Adjusting **camera effects** for better visual clarity
