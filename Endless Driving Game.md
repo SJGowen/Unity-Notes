@@ -1,4 +1,4 @@
-That’s a great find, Stephen! The series you’ve discovered, *How to Make an Endless Driving Game in Unity*, is by Pretty Fly Games and covers various aspects of building an endless driving game, including procedural generation, AI cars, and visual enhancements. Here’s a breakdown of the episodes with timestamps to help you jump to relevant sections:
+*How to Make an Endless Driving Game in Unity*, is by Pretty Fly Games and covers various aspects of building an endless driving game, including procedural generation, AI cars, and visual enhancements. Here’s a breakdown of the episodes with timestamps to help you jump to relevant sections:
 
 ### **Episode 1: Setup & Car Movement** ([Watch here](https://www.youtube.com/watch?v=tsQiYlPGPdA))
 - **00:00 - 00:22** Introduction to the tutorial series
@@ -11,7 +11,7 @@ That’s a great find, Stephen! The series you’ve discovered, *How to Make an 
 
 ### **Episode 2: Chase Camera & Improved Car Handling** ([Watch here](https://www.youtube.com/watch?v=5cnf21Q207o))
 - Covers refining car movement and implementing a chase camera for better player control.
-Absolutely, Stephen! Here’s a **detailed breakdown** of **Episode 2: Chase Camera & Improved Car Handling** to help you navigate the tutorial efficiently:
+**detailed breakdown** of **Episode 2: Chase Camera & Improved Car Handling** to help you navigate the tutorial efficiently:
 
 
 - **00:00 - 00:08** Introduction to the episode and what will be covered
@@ -37,7 +37,7 @@ This episode focuses on **refining player control** and ensuring the camera foll
 - **18:29 - 23:32** Creating section variants for variety
 - **23:32 - 24:26** Final testing and adjustments
 
-Of course, Stephen! Here’s a **detailed breakdown** of **Episode 4: Random Content & Fake Curved World** to help you navigate the tutorial efficiently:
+Here’s a **detailed breakdown** of **Episode 4: Random Content & Fake Curved World** to help you navigate the tutorial efficiently:
 
 ### **Episode 4: Random Content & Fake Curved World** ([Watch here](https://www.youtube.com/watch?v=MqPpOqgOeZg))
 - **00:00 - 00:08** Introduction to the episode and what will be covered
@@ -47,7 +47,7 @@ Of course, Stephen! Here’s a **detailed breakdown** of **Episode 4: Random Con
 - **27:52 - 28:04** Patreon supporters and closing remarks
 - **28:04 - End** Teaser for the next episode
 
-Absolutely, Stephen! Here’s a **detailed breakdown** of **Episode 5: Making Your Game Look Good** to help you enhance the visual appeal of your endless driving game.
+Here’s a **detailed breakdown** of **Episode 5: Making Your Game Look Good** to help you enhance the visual appeal of your endless driving game.
 
 ### **Episode 5: Making Your Game Look Good** ([Watch here](https://www.youtube.com/watch?v=sBbganR5hqM))
 - **00:00 - 00:09** Introduction to the goal of improving the game's visual appeal
