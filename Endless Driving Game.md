@@ -9,11 +9,11 @@ That’s a great find, Stephen! The series you’ve discovered, *How to Make an 
 - **16:00 - 21:00** Scripting car movement (acceleration, braking, steering)
 - **21:00 - 23:14** Testing and final adjustments
 
-### **Episode 2: Chase Camera & Improved Car Handling** ([Watch here](https://www.youtube.com/playlist?list=PLyDa4NP_nvPcP4l93hJQDoRMvp3emkSs7))
+### **Episode 2: Chase Camera & Improved Car Handling** ([Watch here](### **Episode 2: Chase Camera & Improved Car Handling** ([Watch here](https://www.youtube.com/watch?v=5cnf21Q207o))
 - Covers refining car movement and implementing a chase camera for better player control.
 Absolutely, Stephen! Here’s a **detailed breakdown** of **Episode 2: Chase Camera & Improved Car Handling** to help you navigate the tutorial efficiently:
 
-### **Episode 2: Chase Camera & Improved Car Handling** ([Watch here](https://www.youtube.com/watch?v=5cnf21Q207o))
+
 - **00:00 - 00:08** Introduction to the episode and what will be covered
 - **00:08 - 03:04** Setting up a **Cinemachine chase camera** for smooth tracking
 - **03:04 - 12:36** Implementing **Cinemachine collider extension** to avoid obstacles
