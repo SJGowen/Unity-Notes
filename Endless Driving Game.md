@@ -76,12 +76,19 @@ Here’s a **detailed breakdown** of **Episode 6: Exploding Cars** to help you i
 This episode focuses on **creating destruction mechanics** using Blender and Unity physics, which could be useful for adding dynamic crashes to your game. Let me know if you need help implementing any of these techniques! 🚗💥
 
 This episode focuses on **enhancing the visual appeal** of the game while maintaining performance efficiency. Let me know if you need help implementing any of these mechanics in Unity! 🚗💨
+
+Here’s a **detailed breakdown** of **Episode 7: AI Cars** to help you implement AI-driven vehicles in your endless driving game.
+
 ### **Episode 7: AI Cars** ([Watch here](https://www.youtube.com/watch?v=xJIj7QSG5Ck))
-- **00:00 - 00:14** Overview of AI car implementation
-- **00:14 - 14:29** AI car spawn script
-- **14:29 - 18:49** Fixing explosion AI issues
-- **18:49 - 26:00** Preventing AI cars from spawning on top of each other
-- **26:00 - 47:50** Implementing basic AI car behavior
+- **00:00 - 00:14** Introduction to the episode and what will be covered
+- **00:14 - 14:29** Implementing an **AI car spawn script** for efficient vehicle generation
+- **14:29 - 18:49** Fixing **explosion AI issues** to prevent unintended behavior
+- **18:49 - 26:00** Ensuring AI cars **don’t spawn on top of each other**
+- **26:00 - 47:50** Developing **basic AI car behavior**, including movement and interactions
+- **47:50 - 48:00** Patreon supporters and closing remarks
+- **48:00 - End** Teaser for the next episode
+
+This episode focuses on **creating AI-driven vehicles** that interact dynamically within the game world. Since you're already exploring **AI mechanics for dynamic gameplay**, this should be a great addition to your skill set! 🚗🤖 Let me know if you need help implementing any of these techniques.
 
 Here’s a **detailed breakdown** of **Episode 8: Sound Effects & Mixers** to help you implement audio enhancements in your endless driving game.
 
