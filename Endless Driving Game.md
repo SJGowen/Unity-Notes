@@ -13,7 +13,6 @@
 - Covers refining car movement and implementing a chase camera for better player control.
 **detailed breakdown** of **Episode 2: Chase Camera & Improved Car Handling** to help you navigate the tutorial efficiently:
 
-
 - **00:00 - 00:08** Introduction to the episode and what will be covered
 - **00:08 - 03:04** Setting up a **Cinemachine chase camera** for smooth tracking
 - **03:04 - 12:36** Implementing **Cinemachine collider extension** to avoid obstacles
