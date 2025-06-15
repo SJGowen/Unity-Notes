@@ -92,7 +92,7 @@ This episode focuses on **creating AI-driven vehicles** that interact dynamicall
 
 Here’s a **detailed breakdown** of **Episode 8: Sound Effects & Mixers** to help you implement audio enhancements in your endless driving game.
 
-### **Episode 8: Sound Effects & Mixers** ([Watch here](https://www.youtube.com/playlist?list=PLyDa4NP_nvPcP4l93hJQDoRMvp3emkSs7))
+### **Episode 8: Sound Effects & Mixers** ([Watch here](https://m.youtube.com/watch?v=5fx4G3bR39I))
 - **00:00 - 00:12** Introduction to the episode and what will be covered
 - **00:12 - 05:36** Setting up **audio sources** for engine sounds and collisions
 - **05:36 - 12:48** Implementing **audio mixers** to balance sound levels dynamically
