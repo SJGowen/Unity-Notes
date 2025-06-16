@@ -1,6 +1,6 @@
 *How to Make an Endless Driving Game in Unity*, is by Pretty Fly Games and covers various aspects of building an endless driving game, including procedural generation, AI cars, and visual enhancements. Here’s a breakdown of the episodes with timestamps to help you jump to relevant sections:
 
-### **Episode 1: Setup & Car Movement** ([Watch here](https://www.youtube.com/watch?v=tsQiYlPGPdA))
+### **Episode 1: Setup & Car Movement** ([Watch here](https://www.youtube.com/embed/tsQiYlPGPdA))
 - **00:00 - 00:22** Introduction to the tutorial series
 - **00:22 - 01:13** Setting up a new Unity project
 - **01:13 - 05:32** Creating game sections (ground, road)
@@ -9,7 +9,7 @@
 - **16:00 - 21:00** Scripting car movement (acceleration, braking, steering)
 - **21:00 - 23:14** Testing and final adjustments
 
-### **Episode 2: Chase Camera & Improved Car Handling** ([Watch here](https://www.youtube.com/watch?v=5cnf21Q207o))
+### **Episode 2: Chase Camera & Improved Car Handling** ([Watch here](https://www.youtube.com/embed/5cnf21Q207o))
 Covers refining car movement and implementing a chase camera for better player control.
 **detailed breakdown** of **Episode 2: Chase Camera & Improved Car Handling** to help you navigate the tutorial efficiently:
 - **00:00 - 00:08** Introduction to the episode and what will be covered
@@ -21,7 +21,7 @@ Covers refining car movement and implementing a chase camera for better player c
 - **26:19 - End** Teaser for the next episode
 
 This episode focuses on **refining player control** and ensuring the camera follows the car dynamically while avoiding obstacles. Let me know if you need help implementing any of these mechanics in Unity! 🚗💨
-### **Episode 3: Random Endless Level** ([Watch here](https://www.youtube.com/watch?v=C9mrU85RGxw))
+### **Episode 3: Random Endless Level** ([Watch here](https://www.youtube.com/embed/C9mrU85RGxw))
 - **00:00 - 00:09** Introduction to endless level generation
 - **00:09 - 01:03** Tracking the car’s position for procedural generation
 - **01:03 - 02:01** Creating an endless level handler script
@@ -37,7 +37,7 @@ This episode focuses on **refining player control** and ensuring the camera foll
 
 Here’s a **detailed breakdown** of **Episode 4: Random Content & Fake Curved World** to help you navigate the tutorial efficiently:
 
-### **Episode 4: Random Content & Fake Curved World** ([Watch here](https://www.youtube.com/watch?v=MqPpOqgOeZg))
+### **Episode 4: Random Content & Fake Curved World** ([Watch here](https://www.youtube.com/embed/MqPpOqgOeZg))
 - **00:00 - 00:08** Introduction to the episode and what will be covered
 - **00:08 - 15:01** Implementing a **fake curved world effect** to improve visual depth
 - **15:01 - 18:24** Adjusting **color key models** for better aesthetics
@@ -47,7 +47,7 @@ Here’s a **detailed breakdown** of **Episode 4: Random Content & Fake Curved W
 
 Here’s a **detailed breakdown** of **Episode 5: Making Your Game Look Good** to help you enhance the visual appeal of your endless driving game.
 
-### **Episode 5: Making Your Game Look Good** ([Watch here](https://www.youtube.com/watch?v=sBbganR5hqM))
+### **Episode 5: Making Your Game Look Good** ([Watch here](https://www.youtube.com/embed/sBbganR5hqM))
 - **00:00 - 00:09** Introduction to the goal of improving the game's visual appeal
 - **00:09 - 00:25** Overview of how colors and lighting affect game aesthetics
 - **00:25 - 05:15** **Enhancing shadows** (adjusting shadow distance, resolution, and quality settings)
@@ -60,7 +60,7 @@ This episode focuses on **making the game visually appealing** by refining light
 
 Here’s a **detailed breakdown** of **Episode 6: Exploding Cars** to help you implement destruction mechanics in your endless driving game.
 
-### **Episode 6: Exploding Cars** ([Watch here](https://www.youtube.com/watch?v=q6kHGPQh_Ok))
+### **Episode 6: Exploding Cars** ([Watch here](https://www.youtube.com/embed/q6kHGPQh_Ok))
 - **00:00 - 00:14** Introduction to the episode and what will be covered
 - **00:14 - 08:32** Using **Blender’s bisect tool** to divide the car into destructible sections
 - **08:32 - 10:36** Adding **Rigidbody & colliders** to the car for realistic physics interactions
@@ -77,7 +77,7 @@ This episode focuses on **enhancing the visual appeal** of the game while mainta
 
 Here’s a **detailed breakdown** of **Episode 7: AI Cars** to help you implement AI-driven vehicles in your endless driving game.
 
-### **Episode 7: AI Cars** ([Watch here](https://www.youtube.com/watch?v=xJIj7QSG5Ck))
+### **Episode 7: AI Cars** ([Watch here](https://www.youtube.com/embed/xJIj7QSG5Ck))
 - **00:00 - 00:14** Introduction to the episode and what will be covered
 - **00:14 - 14:29** Implementing an **AI car spawn script** for efficient vehicle generation
 - **14:29 - 18:49** Fixing **explosion AI issues** to prevent unintended behavior
@@ -90,7 +90,7 @@ This episode focuses on **creating AI-driven vehicles** that interact dynamicall
 
 Here’s a **detailed breakdown** of **Episode 8: Sound Effects & Mixers** to help you implement audio enhancements in your endless driving game.
 
-### **Episode 8: Sound Effects & Mixers** ([Watch here](https://m.youtube.com/watch?v=5fx4G3bR39I))
+### **Episode 8: Sound Effects & Mixers** ([Watch here](https://m.youtube.com/embed/5fx4G3bR39I))
 - **00:00 - 00:12** Introduction to the episode and what will be covered
 - **00:12 - 05:36** Setting up **audio sources** for engine sounds and collisions
 - **05:36 - 12:48** Implementing **audio mixers** to balance sound levels dynamically
@@ -103,7 +103,7 @@ This episode focuses on **enhancing the auditory experience** of the game, makin
 
 Here’s a **detailed breakdown** of **Episode 9: Upgrading to Unity 6** to help you transition your project to the latest Unity version.
 
-### **Episode 9: Upgrading to Unity 6** ([Watch here](https://www.youtube.com/watch?v=lpXIvWoimPQ))
+### **Episode 9: Upgrading to Unity 6** ([Watch here](https://www.youtube.com/embed/lpXIvWoimPQ))
 - **00:00 - 00:12** Introduction to the episode and what will be covered
 - **00:12 - 02:45** Overview of **Unity 6 features** relevant to endless driving games
 - **02:45 - 07:19** Adjusting **physics settings** for compatibility with Unity 6
@@ -116,7 +116,7 @@ This episode focuses on **upgrading your project to Unity 6**, ensuring compatib
 
 Here’s a **detailed breakdown** of **Episode 10: UI - Show Distance Traveled** to help you implement a scoring system in your endless driving game.
 
-### **Episode 10: UI - Show Distance Traveled** ([Watch here](https://www.youtube.com/watch?v=lSUYXpMEgc0))
+### **Episode 10: UI - Show Distance Traveled** ([Watch here](https://www.youtube.com/embed/lSUYXpMEgc0))
 - **00:00 - 00:10** Introduction to the episode and what will be covered
 - **00:10 - 02:12** Upgrading to **Unity 6** for UI improvements
 - **02:12 - 04:57** Setting up **Cinemachine 3** for better UI scaling
@@ -127,7 +127,7 @@ This episode focuses on **displaying the player's traveled distance** as a score
 
 Here’s a **detailed breakdown** of **Episode 11: Final Polish & Optimization** to help you refine and optimize your endless driving game.
 
-### **Episode 11: Final Polish & Optimization** ([Watch here](https://m.youtube.com/watch?v=t19p_PC2Vo8))
+### **Episode 11: Final Polish & Optimization** ([Watch here](https://m.youtube.com/embed/t19p_PC2Vo8))
 - **00:00 - 00:10** Introduction to the episode and final improvements
 - **00:10 - 04:32** Optimizing **performance settings** for smoother gameplay
 - **04:32 - 09:15** Adjusting **camera effects** for better visual clarity
