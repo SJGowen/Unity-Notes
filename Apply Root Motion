@@ -1,0 +1,25 @@
+The "Apply Root Motion" property on the Animator component in Unity controls whether the movement and rotation defined by your character's animation clips are applied directly to the GameObject's Transform.
+What is "Apply Root Motion"?
+
+•	Root Motion refers to movement and rotation that is baked into the animation itself, usually from the root bone of the character (often the hips or pelvis).
+•	When "Apply Root Motion" is enabled, the Animator will move the GameObject in the scene according to the root motion in the animation clip.
+•	When "Apply Root Motion" is disabled, the Animator will play the animation in place, and you are responsible for moving the GameObject via script (for example, using a NavMeshAgent or Rigidbody).
+
+In the context of your ProductivityUnit (Worker):
+
+•	If you are using a NavMeshAgent (as in your Unit base class), you typically want "Apply Root Motion" to be disabled. This is because the agent is responsible for moving the character, and root motion would interfere with that movement.
+•	If you want your character to move exactly as the animation dictates (for example, a hand-animated jump or roll), you would enable "Apply Root Motion".
+
+Summary Table
+| Apply Root Motion | Result                                                                 |
+|-------------------|------------------------------------------------------------------------|
+| Enabled           | GameObject moves/rotates according to animation's root bone movement.  |
+| Disabled          | GameObject stays in place; you move it via script/physics.             |
+
+Typical Usage
+•	AI/Player-controlled characters using NavMeshAgent or Rigidbody:
+Disable "Apply Root Motion".
+•	Cinematic or hand-animated movement (e.g., cutscenes):
+Enable "Apply Root Motion".
+
+In your ProductivityUnit Worker, you should generally keep "Apply Root Motion" disabled if you want the NavMeshAgent to control movement.
